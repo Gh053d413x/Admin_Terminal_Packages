@@ -1,50 +1,14 @@
 # Admin Terminal Packages `v1.0`
 
-
-
----
-
-## 📰 NEWS 📰
-
-Alpha 1.8 Has been Released!
-
-#### Marry Christmas!
-
----
-
-## Modding/Bug Testing Discression/Bug Reporting Information
-
-If making a Mod or testing for bugs, it's recommended to make sure to back up the settings file by either typing `backup` into the main terminal window or copying the settings file elsewere directly.
-
-Found any bugs? Here are steps to report it:
--    Go to [this link](https://github.com/Gh053d413x/Admin_Terminal/issues/new/choose)
--    Click `Get Started` for the `Bug Report` section
--    Fill out the form
--    Submit and I will do the rest
-
-It's that simple!
+This is where you can download packages for Admin Terminal
 
 ---
 
 ## ℹ️ INFO ℹ️
 
-The listed libraries below are required to run the terminal if using the python file.
+If a package is required, Admin Terminal will prompt you to install packages or create new ones, you can download already-made packages from here or make new ones yourself
 
-    `os (Built-In)`
-    `random (Built-In)`
-    `time (Built-In)`
-    `sys (Built-In)`
-    `tkinter (Should be Built-In)`
-    `traceback (Built-In)`
-    `json (Built-In)`
-    `pathlib (Built-In)`
-    `subprocess (Built-In)`
-    `shutil (Built-In)`
-    `datetime (Built-In)`
-    `getpass (Built-In)`
-    `hashlib (Built-In)`
-
----
+You can upload packages and if it is approved then it will be added to the repository
 
 ## Instructions
 
